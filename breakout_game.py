@@ -219,7 +219,7 @@ def run_game():
 
 # --- Screen Setup ---
 win = turtle.Screen()  # create game screen
-win.title("Breakout Game with Restart")  # set window title
+win.title("Breakout Game")  # set window title
 win.bgcolor("black")  # set background color
 win.setup(width=SCREEN_WIDTH, height=SCREEN_HEIGHT)  # set screen size
 
