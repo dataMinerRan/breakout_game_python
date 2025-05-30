@@ -23,6 +23,11 @@ This is a simple **Breakout-style arcade game** built using Python's `turtle` gr
 - Python 3.x
 - No external libraries needed (uses the built-in `turtle` module)
 
+## 🚀 Game Demo
+
+<img width="796" alt="Screenshot 2025-05-29 at 8 23 45 PM" src="https://github.com/user-attachments/assets/13cc9337-692f-462b-adcb-1065ea56add7" />
+
+
 ## 🚀 Getting Started
 
 To run the game:
